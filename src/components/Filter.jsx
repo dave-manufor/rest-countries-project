@@ -42,7 +42,7 @@ dark:text-white dark:hover:bg-dark-blue-50"
           <span
             className="text-dark-blue-300 text-base font-medium hover:bg-grey py-3 px-6 dark:bg-dark-blue-100
 dark:text-white dark:hover:bg-dark-blue-50"
-            data-value="America"
+            data-value="Americas"
           >
             America
           </span>
