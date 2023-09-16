@@ -19,6 +19,7 @@ React Router
 Tailwind CSS
 Axios
 React SVG
+(The list of dependencies can be found in the package.json file)
 
 Your users are be able to:
 
