@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+// This hook gives access to the current global theme
 const useTheme = () => {
   const [theme, setTheme] = useState("");
   // Check local Storage for theme, Check prefered theme is there is no theme in local storage

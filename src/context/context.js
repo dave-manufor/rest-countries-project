@@ -28,7 +28,6 @@ export const DataProvider = ({ children }) => {
     }
   };
   const [filters, filtersDispatch] = useReducer(filterReducer, []);
-  console.log(filters);
   /**********************************************************************/
 
   /**********************************************************************/

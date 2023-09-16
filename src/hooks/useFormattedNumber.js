@@ -1,3 +1,4 @@
+// This hook is used to format integers and floats with decimal and commas
 const useFormattedNumber = (number) => {
   const numStr = String(number).split(",").join("");
   let tempStr = "";
